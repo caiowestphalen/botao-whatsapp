@@ -1,5 +1,4 @@
 # Botão fixo de contato Whatsapp
-<img src="logo.webp" alt="">
+<img src="logo.webp" alt="" href="https://instagram.com/p1xcode">
 Botão fixo para contato do cliente via whatsapp em seu site. <br>
-Primeiro você recebe o lead pelo e-mail, logo em seguida o cliente é redirecionado
-a janela do whatsapp.
+
